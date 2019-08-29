@@ -5,3 +5,12 @@ section {
   width: 750px;
   height: 300px;
 }
+
+div {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: none;
+  border: 2px dashed #fff;
+  left: 550px;
+}
